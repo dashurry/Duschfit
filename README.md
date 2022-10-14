@@ -7,5 +7,5 @@
 
 
 <div align="center">
-<img width="100%" alt="image" src="https://github.com/dashurry/Duschfit/blob/main/Duschfit_1.webp">
+<img width="100%" alt="image" src="https://github.com/dashurry/Duschfit/blob/main/img/Duschfit_1.webp">
 </div>
