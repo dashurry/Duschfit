@@ -1,5 +1,5 @@
 # Duschfit:
-🔭 Die Website soll den Bekanntheitsgrad des Kunden als seriöses Unternehmen, das sich auf den Einbau von Duschtrennwände spezialisiert hat, auf dem Markt erhöhen und dadurch neue Kunden zu gewinnen<br>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert
+🔭 Die Website soll den Bekanntheitsgrad des Kunden als seriöses Unternehmen, das sich auf den Einbau von Duschtrennwände spezialisiert hat, auf dem Markt erhöhen und dadurch neue Kunden zu gewinnen<br><h2>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert</h2>
 
 
 # Tech Stack
