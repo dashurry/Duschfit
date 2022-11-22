@@ -1,6 +1,7 @@
 # Duschfit:
 🔭 Die Website soll den Bekanntheitsgrad des Kunden als seriöses Unternehmen, das sich auf den Einbau von Duschtrennwände spezialisiert hat, auf dem Markt erhöhen und dadurch neue Kunden zu gewinnen<br><h2>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert</h2>
-# Todo: Recode Website by using Vuejs for training purpose
+# Todo:
+📝 Recode Website by using Vuejs for training purpose
 
 # Tech Stack
 <p align="left">
