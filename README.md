@@ -1,5 +1,11 @@
 # Duschfit:
-🔭 Die Website soll den Bekanntheitsgrad des Kunden als seriöses Unternehmen, das sich auf den Einbau von Duschtrennwände spezialisiert hat, auf dem Markt erhöhen und dadurch neue Kunden zu gewinnen<br><h2>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert</h2>
+🔭 Die Website soll das Geschäft des Kunden fördern und ihn als seriöses Unternehmen auf dem Markt etablieren.
+
+Durch die Darstellung der Kompetenz des Unternehmens beim Einbau von Duschabtrennungen hofft die Website, neue Kunden zu gewinnen und dem Kunden zu einem Wettbewerbsvorteil zu verhelfen.
+
+Durch die Hervorhebung der Professionalität und der qualitativ hochwertigen Arbeit des Kunden soll die Website bei potenziellen Kunden Vertrauen und Glaubwürdigkeit schaffen, was letztlich zu einem Anstieg des Geschäftsvolumens und zum Erfolg auf dem Markt führt.
+<br>
+<h2>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert</h2>
 # Todo:
 📝 Recode Website by using Vuejs for training purpose
 
