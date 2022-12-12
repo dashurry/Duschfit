@@ -1,5 +1,5 @@
-# Duschfit:
-🔭 Die Website soll das Geschäft des Kunden fördern und ihn als seriöses Unternehmen auf dem Markt etablieren.
+<h2>🔭 Duschfit:</h2>
+Die Website soll das Geschäft des Kunden fördern und ihn als seriöses Unternehmen auf dem Markt etablieren.
 
 Durch die Darstellung der Kompetenz des Unternehmens beim Einbau von Duschabtrennungen hofft die Website, neue Kunden zu gewinnen und dem Kunden zu einem Wettbewerbsvorteil zu verhelfen.
 
