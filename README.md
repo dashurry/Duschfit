@@ -7,8 +7,8 @@ Durch die Hervorhebung der Professionalität und der qualitativ hochwertigen Arb
 <br>
 <h2>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert</h2>
 <br>
-<h2>Todos:</h2>
-📝 Die Website wird zu Übungszwecken mit Vue.js umgestaltet. Die neue Codebasis wird es mir ermöglichen, die Verwendung dieses beliebten JavaScript-Frameworks zu erlernen und zu üben, was mir helfen wird, meine Fähigkeiten zu verbessern und mit den neuesten Entwicklungen in der Webentwicklung Schritt zu halten.
+<h2>📝 Todos:</h2>
+Die Website wird zu Übungszwecken mit Vue.js umgestaltet. Die neue Codebasis wird es mir ermöglichen, die Verwendung dieses beliebten JavaScript-Frameworks zu erlernen und zu üben, was mir helfen wird, meine Fähigkeiten zu verbessern und mit den neuesten Entwicklungen in der Webentwicklung Schritt zu halten.
 
 # Tech Stack
 <p align="left">
