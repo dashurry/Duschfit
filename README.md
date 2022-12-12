@@ -6,6 +6,7 @@ Durch die Darstellung der Kompetenz des Unternehmens beim Einbau von Duschabtren
 Durch die Hervorhebung der Professionalität und der qualitativ hochwertigen Arbeit des Kunden soll die Website bei potenziellen Kunden Vertrauen und Glaubwürdigkeit schaffen, was letztlich zu einem Anstieg des Geschäftsvolumens und zum Erfolg auf dem Markt führt.
 <br>
 <h2>⚡ Website wurde nach 3 Jahre mit Wordpress neu definiert</h2>
+<br>
 # Todo:
 📝 Die Website wird zu Übungszwecken mit Vue.js umgestaltet. Die neue Codebasis wird es mir ermöglichen, die Verwendung dieses beliebten JavaScript-Frameworks zu erlernen und zu üben, was mir helfen wird, meine Fähigkeiten zu verbessern und mit den neuesten Entwicklungen in der Webentwicklung Schritt zu halten.
 
